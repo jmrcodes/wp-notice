@@ -1,0 +1,34 @@
+.notice {
+	background-color: #c00;
+	color: #fff;
+	display: none;
+	font-size: 1.25rem;
+	padding: 2em 2vw;
+	text-align: center;
+	width: 100%;
+}
+
+.notice .notice-content {
+	display: block;
+	margin: 0 auto;
+}
+
+.notice h1 {
+	font-size: 1.4em;
+	font-weight: 700;
+	margin: 0 0 0.25em;
+}
+
+.notice p {
+	font-size: 1.2em;
+	margin: 0;
+}
+
+.notice a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.notice a:hover {
+	color: #00c;
+}
