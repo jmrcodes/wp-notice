@@ -27,6 +27,16 @@
 		"oAP": "\/assets\/icon.sketch",
 		"oF": 0
 		},
+	"\/css\/notice.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/notice-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/notice.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -40,6 +50,15 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/js\/notice-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/notice-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/notice.js": {
 		"ft": 64,
 		"mi": 1,
@@ -48,6 +67,18 @@
 		"oF": 2,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/notice.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/notice.php",
+		"oF": 0
+		},
+	"\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/readme.txt",
+		"oF": 0
 		}
 	},
 "hooks": [
