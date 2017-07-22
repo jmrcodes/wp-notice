@@ -1,0 +1,1 @@
+window.addEventListener("load",function e(){var d=document.getElementById("jmrNotice");if(void 0!==d){var t=document.body.firstChild;t.parentNode.insertBefore(d,t),d.style.display="block"}},!1);
